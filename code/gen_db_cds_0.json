@@ -1,0 +1,61 @@
+{
+   "comment": "",
+   "Base": {
+      "project_name": "cpss",
+      "release_number": "4.2"
+   },
+
+   "Country1":
+      [ 
+           {
+              "1":  "Israel",
+              "City": {
+                  "1":"Haifa",
+                  "2":"TelAviv",
+                  "3":"Jerusalem"
+              }
+           },
+           {
+              "2": "USA",
+              "City": {
+                  "1":"NewYork",
+                  "2":"SanFrancisco"
+              }
+           },
+           {
+              "3": "Russia",
+              "City": {
+                  "1":"Moscow",
+                  "2":"SanktPeterburg"
+              }
+           }
+    ],
+   "Country":{
+
+      "1": { 
+              "Name": "Israel",
+              "City": {
+                  "1":"Haifa",
+                  "2":"TelAviv",
+                  "3":"Jerusalem"
+              }
+            },
+      "2": { 
+              "Name": "USA",
+              "City": {
+                  "1":"NewYork",
+                  "2":"SanFrancisco"
+              }
+            },
+      "3": { 
+              "Name": "Russia",
+              "City": {
+                  "1":"Moscow",
+                  "2":"SanktPeterburg"
+              }
+            }
+
+  }
+}
+
+

@@ -1,0 +1,489 @@
+         ---------------
+Start    : 15:07:14.37 call_gen_db_cds_1.bat
+         ---------------
+The syntax of the command is incorrect.
+"-------------------"
+"  The parameters are:"
+"-------------------"
+"RELEASE_BRANCH      = cpss_4.2"
+"CURRENT_BASELINE    = CPSS_4.2_317"
+"CURRENT_BASELINE_NO = 4.2_317"
+"LOG_DIR             = c:\Git\ws01\cds\code\Logs_4.2_317_180603"
+"-------------------"
+"CONF_GEN_CDS=c:\Git\ws01\cds\code\gen_db_cds_3.json
+ "c:\Python27\python.exe c:\Git\ws01\cds\code\w_json_8.py c:\Git\ws01\cds\code\data_cds_1.json >c:\Git\ws01\cds\code\Logs_4.2_317_180603\w_json_x.txt"
+Total_Slots =  1155
+gen_Neighb_dSign_Owner STARTED
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101101,101,101101101101 => Bat_Galim,Owner_1,Bat_Galim_1,4000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101101,102,101101101102 => Bat_Galim,Owner_2,Bat_Galim_2,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101101,102,101101101103 => Bat_Galim,Owner_2,Bat_Galim_3,2000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101102,101,101101102101 => Denia,Owner_1,Denia_1,6000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101102,102,101101102102 => Denia,Owner_2,Denia_2,4000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101102,102,101101102103 => Denia,Owner_2,Denia_3,5000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101103,102,101101103101 => French_Carmel,Owner_2,French_Carmel_1,2000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101103,102,101101103102 => French_Carmel,Owner_2,French_Carmel_2,4000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101103,101,101101103103 => French_Carmel,Owner_1,French_Carmel_3,1000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101104,101,101101104101 => German_Colony,Owner_1,German_Colony_1,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101104,102,101101104102 => German_Colony,Owner_2,German_Colony_2,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101104,102,101101104103 => German_Colony,Owner_2,German_Colony_3,1000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101105,102,101101105101 => Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,4000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101105,102,101101105102 => Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101105,102,101101105103 => Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,5000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101106,101,101101106101 => Kababir,Owner_1,Kababir_1,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101106,101,101101106102 => Kababir,Owner_1,Kababir_2,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101106,102,101101106103 => Kababir,Owner_2,Kababir_3,3000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101107,102,101101107101 => Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,1000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101107,101,101101107102 => Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,1000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101107,102,101101107103 => Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,2000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101108,102,101101108101 => Kiryat_Haim,Owner_2,Kiryat_Haim_1,6000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101108,102,101101108102 => Kiryat_Haim,Owner_2,Kiryat_Haim_2,5000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101108,102,101101108103 => Kiryat_Haim,Owner_2,Kiryat_Haim_3,6000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101109,102,101101109101 => Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,2000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101109,101,101101109102 => Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,5000
+gen_Neighb_dSign_Owner: Neighb_Owner_dSign Neighb_Owner_dSign_Key= 101101109,101,101101109103 => Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,1000
+---------------
+data['Neighb_Owner_dSign'] = 
+{'101101101,101,101101101101': 'Bat_Galim,Owner_1,Bat_Galim_1,4000',
+ '101101101,102,101101101102': 'Bat_Galim,Owner_2,Bat_Galim_2,3000',
+ '101101101,102,101101101103': 'Bat_Galim,Owner_2,Bat_Galim_3,2000',
+ '101101102,101,101101102101': 'Denia,Owner_1,Denia_1,6000',
+ '101101102,102,101101102102': 'Denia,Owner_2,Denia_2,4000',
+ '101101102,102,101101102103': 'Denia,Owner_2,Denia_3,5000',
+ '101101103,101,101101103103': 'French_Carmel,Owner_1,French_Carmel_3,1000',
+ '101101103,102,101101103101': 'French_Carmel,Owner_2,French_Carmel_1,2000',
+ '101101103,102,101101103102': 'French_Carmel,Owner_2,French_Carmel_2,4000',
+ '101101104,101,101101104101': 'German_Colony,Owner_1,German_Colony_1,3000',
+ '101101104,102,101101104102': 'German_Colony,Owner_2,German_Colony_2,3000',
+ '101101104,102,101101104103': 'German_Colony,Owner_2,German_Colony_3,1000',
+ '101101105,102,101101105101': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,4000',
+ '101101105,102,101101105102': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,3000',
+ '101101105,102,101101105103': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,5000',
+ '101101106,101,101101106101': 'Kababir,Owner_1,Kababir_1,3000',
+ '101101106,101,101101106102': 'Kababir,Owner_1,Kababir_2,3000',
+ '101101106,102,101101106103': 'Kababir,Owner_2,Kababir_3,3000',
+ '101101107,101,101101107102': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,1000',
+ '101101107,102,101101107101': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,1000',
+ '101101107,102,101101107103': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,2000',
+ '101101108,102,101101108101': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,6000',
+ '101101108,102,101101108102': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,5000',
+ '101101108,102,101101108103': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,6000',
+ '101101109,101,101101109102': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,5000',
+ '101101109,101,101101109103': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,1000',
+ '101101109,102,101101109101': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,2000'}
+gen_Neighb_dSign_Owner ENDED
+---------------
+data['base'] = 
+{'CASE_DB_PRINT_ALL': 'nY',
+ 'CASE_DB_PRINT_TBL': 'Y',
+ 'Clip_Budget_Max': 12,
+ 'Clip_Budget_Min': 1,
+ 'D_Sign_Counter': 3,
+ 'Dig_Sign_Max_Time_Interv_Price': 10000000,
+ 'Dig_Sign_Time_Interv_SQR': 0.9,
+ 'Digital_Signage_Cost_Max': 7000,
+ 'Digital_Signage_Cost_Min': 1000,
+ 'Owner_Counter': 3,
+ 'Time_Interval_Counter': 4,
+ 'Time_Interval_People': 10,
+ 'Time_Slot_Cost': 10,
+ 'User_Clip_Counter': 3,
+ 'User_Clip_Neighborhood_Counter': 3,
+ 'User_Counter': 3}
+---------------
+data['Time_Interval_Price'] = 
+{101: 1, 102: 2, 103: 3, 104: 4}
+---------------
+data['Time_Interval_dSign_People'] = 
+{101: 10, 102: 40, 103: 140, 104: 580}
+---------------
+data['Time_Interval_Slots'] = 
+{101: 864, 102: 216, 103: 61, 104: 14}
+---------------
+data['aCountry'] = 
+{'ALL': 100, 'Israel': 101, 'Russia': 103, 'USA': 102}
+---------------
+data['aCity'] = 
+{'Haifa': 101101, 'Israel_ALL': 101100, 'Jerusalem': 101103, 'TelAviv': 101102}
+---------------
+data['aNeighborhood'] = 
+{'Bat_Galim': 101101101,
+ 'Denia': 101101102,
+ 'French_Carmel': 101101103,
+ 'German_Colony': 101101104,
+ 'Hadar_HaCarmel': 101101105,
+ 'Haifa_ALL': 101101100,
+ 'Kababir': 101101106,
+ 'Kiryat_Eliezer': 101101107,
+ 'Kiryat_Haim': 101101108,
+ 'Kiryat_Shmuel': 101101109}
+---------------
+data['Digital_Signage'] = 
+{101101101100L: 'Bat_Galim_ALL',
+ 101101101101L: 'Bat_Galim_1',
+ 101101101102L: 'Bat_Galim_2',
+ 101101101103L: 'Bat_Galim_3',
+ 101101102100L: 'Denia_ALL',
+ 101101102101L: 'Denia_1',
+ 101101102102L: 'Denia_2',
+ 101101102103L: 'Denia_3',
+ 101101103100L: 'French_Carmel_ALL',
+ 101101103101L: 'French_Carmel_1',
+ 101101103102L: 'French_Carmel_2',
+ 101101103103L: 'French_Carmel_3',
+ 101101104100L: 'German_Colony_ALL',
+ 101101104101L: 'German_Colony_1',
+ 101101104102L: 'German_Colony_2',
+ 101101104103L: 'German_Colony_3',
+ 101101105100L: 'Hadar_HaCarmel_ALL',
+ 101101105101L: 'Hadar_HaCarmel_1',
+ 101101105102L: 'Hadar_HaCarmel_2',
+ 101101105103L: 'Hadar_HaCarmel_3',
+ 101101106100L: 'Kababir_ALL',
+ 101101106101L: 'Kababir_1',
+ 101101106102L: 'Kababir_2',
+ 101101106103L: 'Kababir_3',
+ 101101107100L: 'Kiryat_Eliezer_ALL',
+ 101101107101L: 'Kiryat_Eliezer_1',
+ 101101107102L: 'Kiryat_Eliezer_2',
+ 101101107103L: 'Kiryat_Eliezer_3',
+ 101101108100L: 'Kiryat_Haim_ALL',
+ 101101108101L: 'Kiryat_Haim_1',
+ 101101108102L: 'Kiryat_Haim_2',
+ 101101108103L: 'Kiryat_Haim_3',
+ 101101109100L: 'Kiryat_Shmuel_ALL',
+ 101101109101L: 'Kiryat_Shmuel_1',
+ 101101109102L: 'Kiryat_Shmuel_2',
+ 101101109103L: 'Kiryat_Shmuel_3'}
+---------------
+data['D_Sign_Owner'] = 
+{101101101100L: 102,
+ 101101101101L: 101,
+ 101101101102L: 102,
+ 101101101103L: 102,
+ 101101102100L: 101,
+ 101101102101L: 101,
+ 101101102102L: 102,
+ 101101102103L: 102,
+ 101101103100L: 102,
+ 101101103101L: 102,
+ 101101103102L: 102,
+ 101101103103L: 101,
+ 101101104100L: 101,
+ 101101104101L: 101,
+ 101101104102L: 102,
+ 101101104103L: 102,
+ 101101105100L: 102,
+ 101101105101L: 102,
+ 101101105102L: 102,
+ 101101105103L: 102,
+ 101101106100L: 101,
+ 101101106101L: 101,
+ 101101106102L: 101,
+ 101101106103L: 102,
+ 101101107100L: 102,
+ 101101107101L: 102,
+ 101101107102L: 101,
+ 101101107103L: 102,
+ 101101108100L: 102,
+ 101101108101L: 102,
+ 101101108102L: 102,
+ 101101108103L: 102,
+ 101101109100L: 102,
+ 101101109101L: 102,
+ 101101109102L: 101,
+ 101101109103L: 101}
+---------------
+data['Owner'] = 
+{100: 'ALL', 101: 'Owner_1', 102: 'Owner_2'}
+---------------
+data['User'] = 
+{100: 'ALL', 101: 'User_1', 102: 'User_2'}
+data['User_Clip'] = 
+{102101: 'User_2_Clip_1'}
+---------------
+data['User_Clip_Budget'] = 
+{102101: 7000}
+---------------
+data['Neighborhood'] = 
+{101101100: 'Haifa_ALL',
+ 101101101: 'Bat_Galim',
+ 101101102: 'Denia',
+ 101101103: 'French_Carmel',
+ 101101104: 'German_Colony',
+ 101101105: 'Hadar_HaCarmel',
+ 101101106: 'Kababir',
+ 101101107: 'Kiryat_Eliezer',
+ 101101108: 'Kiryat_Haim',
+ 101101109: 'Kiryat_Shmuel'}
+---------------
+data['User_Clip_Neighborhood'] = 
+{102101: 101101102}
+---------------
+data['Digital_Signage_Cost'] = 
+{101101101100L: 3000,
+ 101101101101L: 4000,
+ 101101101102L: 3000,
+ 101101101103L: 2000,
+ 101101102100L: 2000,
+ 101101102101L: 6000,
+ 101101102102L: 4000,
+ 101101102103L: 5000,
+ 101101103100L: 6000,
+ 101101103101L: 2000,
+ 101101103102L: 4000,
+ 101101103103L: 1000,
+ 101101104100L: 5000,
+ 101101104101L: 3000,
+ 101101104102L: 3000,
+ 101101104103L: 1000,
+ 101101105100L: 1000,
+ 101101105101L: 4000,
+ 101101105102L: 3000,
+ 101101105103L: 5000,
+ 101101106100L: 4000,
+ 101101106101L: 3000,
+ 101101106102L: 3000,
+ 101101106103L: 3000,
+ 101101107100L: 6000,
+ 101101107101L: 1000,
+ 101101107102L: 1000,
+ 101101107103L: 2000,
+ 101101108100L: 4000,
+ 101101108101L: 6000,
+ 101101108102L: 5000,
+ 101101108103L: 6000,
+ 101101109100L: 6000,
+ 101101109101L: 2000,
+ 101101109102L: 5000,
+ 101101109103L: 1000}
+---------------
+data['Neighb_User_Clips_dSign'] = 
+{'101101102,102,101101102101': 'Denia,User_2,User_2_Clip_1,Denia_1',
+ '101101102,102,101101102102': 'Denia,User_2,User_2_Clip_1,Denia_2',
+ '101101102,102,101101102103': 'Denia,User_2,User_2_Clip_1,Denia_3'}
+---------------
+data['Neighb_User_Clips'] = 
+{'101101102,102,102101': 'Denia,User_2,User_2_Clip_1,7000,700'}
+---------------
+data['Neighb_Owner_dSign_Slots'] = 
+{'101101101,101,101101101101,101': 'Bat_Galim,Owner_1,Bat_Galim_1,57,571,520,344',
+ '101101101,101,101101101101,102': 'Bat_Galim,Owner_1,Bat_Galim_1,114,2284,144,72',
+ '101101101,101,101101101101,103': 'Bat_Galim,Owner_1,Bat_Galim_1,171,7994,6,55',
+ '101101101,101,101101101101,104': 'Bat_Galim,Owner_1,Bat_Galim_1,228,33118,5,9',
+ '101101101,102,101101101102,101': 'Bat_Galim,Owner_2,Bat_Galim_2,42,428,135,729',
+ '101101101,102,101101101102,102': 'Bat_Galim,Owner_2,Bat_Galim_2,85,1712,133,83',
+ '101101101,102,101101101102,103': 'Bat_Galim,Owner_2,Bat_Galim_2,128,5992,28,33',
+ '101101101,102,101101101102,104': 'Bat_Galim,Owner_2,Bat_Galim_2,171,24824,12,2',
+ '101101101,102,101101101103,101': 'Bat_Galim,Owner_2,Bat_Galim_3,28,285,547,317',
+ '101101101,102,101101101103,102': 'Bat_Galim,Owner_2,Bat_Galim_3,57,1140,32,184',
+ '101101101,102,101101101103,103': 'Bat_Galim,Owner_2,Bat_Galim_3,85,3990,30,31',
+ '101101101,102,101101101103,104': 'Bat_Galim,Owner_2,Bat_Galim_3,114,16530,9,5',
+ '101101102,101,101101102101,101': 'Denia,Owner_1,Denia_1,85,857,388,476',
+ '101101102,101,101101102101,102': 'Denia,Owner_1,Denia_1,171,3428,142,74',
+ '101101102,101,101101102101,103': 'Denia,Owner_1,Denia_1,257,11998,37,24',
+ '101101102,101,101101102101,104': 'Denia,Owner_1,Denia_1,342,49706,3,11',
+ '101101102,102,101101102102,101': 'Denia,Owner_2,Denia_2,57,571,149,715',
+ '101101102,102,101101102102,102': 'Denia,Owner_2,Denia_2,114,2284,102,114',
+ '101101102,102,101101102102,103': 'Denia,Owner_2,Denia_2,171,7994,12,49',
+ '101101102,102,101101102102,104': 'Denia,Owner_2,Denia_2,228,33118,6,8',
+ '101101102,102,101101102103,101': 'Denia,Owner_2,Denia_3,71,714,10,854',
+ '101101102,102,101101102103,102': 'Denia,Owner_2,Denia_3,142,2856,109,107',
+ '101101102,102,101101102103,103': 'Denia,Owner_2,Denia_3,214,9996,23,38',
+ '101101102,102,101101102103,104': 'Denia,Owner_2,Denia_3,285,41412,9,5',
+ '101101103,101,101101103103,101': 'French_Carmel,Owner_1,French_Carmel_3,14,142,5,859',
+ '101101103,101,101101103103,102': 'French_Carmel,Owner_1,French_Carmel_3,28,568,2,214',
+ '101101103,101,101101103103,103': 'French_Carmel,Owner_1,French_Carmel_3,42,1988,11,50',
+ '101101103,101,101101103103,104': 'French_Carmel,Owner_1,French_Carmel_3,56,8236,4,10',
+ '101101103,102,101101103101,101': 'French_Carmel,Owner_2,French_Carmel_1,28,285,377,487',
+ '101101103,102,101101103101,102': 'French_Carmel,Owner_2,French_Carmel_1,57,1140,73,143',
+ '101101103,102,101101103101,103': 'French_Carmel,Owner_2,French_Carmel_1,85,3990,36,25',
+ '101101103,102,101101103101,104': 'French_Carmel,Owner_2,French_Carmel_1,114,16530,9,5',
+ '101101103,102,101101103102,101': 'French_Carmel,Owner_2,French_Carmel_2,57,571,565,299',
+ '101101103,102,101101103102,102': 'French_Carmel,Owner_2,French_Carmel_2,114,2284,86,130',
+ '101101103,102,101101103102,103': 'French_Carmel,Owner_2,French_Carmel_2,171,7994,14,47',
+ '101101103,102,101101103102,104': 'French_Carmel,Owner_2,French_Carmel_2,228,33118,11,3',
+ '101101104,101,101101104101,101': 'German_Colony,Owner_1,German_Colony_1,42,428,555,309',
+ '101101104,101,101101104101,102': 'German_Colony,Owner_1,German_Colony_1,85,1712,9,207',
+ '101101104,101,101101104101,103': 'German_Colony,Owner_1,German_Colony_1,128,5992,2,59',
+ '101101104,101,101101104101,104': 'German_Colony,Owner_1,German_Colony_1,171,24824,9,5',
+ '101101104,102,101101104102,101': 'German_Colony,Owner_2,German_Colony_2,42,428,177,687',
+ '101101104,102,101101104102,102': 'German_Colony,Owner_2,German_Colony_2,85,1712,27,189',
+ '101101104,102,101101104102,103': 'German_Colony,Owner_2,German_Colony_2,128,5992,17,44',
+ '101101104,102,101101104102,104': 'German_Colony,Owner_2,German_Colony_2,171,24824,9,5',
+ '101101104,102,101101104103,101': 'German_Colony,Owner_2,German_Colony_3,14,142,272,592',
+ '101101104,102,101101104103,102': 'German_Colony,Owner_2,German_Colony_3,28,568,72,144',
+ '101101104,102,101101104103,103': 'German_Colony,Owner_2,German_Colony_3,42,1988,23,38',
+ '101101104,102,101101104103,104': 'German_Colony,Owner_2,German_Colony_3,56,8236,5,9',
+ '101101105,102,101101105101,101': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,57,571,11,853',
+ '101101105,102,101101105101,102': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,114,2284,118,98',
+ '101101105,102,101101105101,103': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,171,7994,17,44',
+ '101101105,102,101101105101,104': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,228,33118,8,6',
+ '101101105,102,101101105102,101': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,42,428,399,465',
+ '101101105,102,101101105102,102': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,85,1712,145,71',
+ '101101105,102,101101105102,103': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,128,5992,44,17',
+ '101101105,102,101101105102,104': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,171,24824,10,4',
+ '101101105,102,101101105103,101': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,71,714,42,822',
+ '101101105,102,101101105103,102': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,142,2856,67,149',
+ '101101105,102,101101105103,103': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,214,9996,7,54',
+ '101101105,102,101101105103,104': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,285,41412,5,9',
+ '101101106,101,101101106101,101': 'Kababir,Owner_1,Kababir_1,42,428,54,810',
+ '101101106,101,101101106101,102': 'Kababir,Owner_1,Kababir_1,85,1712,9,207',
+ '101101106,101,101101106101,103': 'Kababir,Owner_1,Kababir_1,128,5992,30,31',
+ '101101106,101,101101106101,104': 'Kababir,Owner_1,Kababir_1,171,24824,12,2',
+ '101101106,101,101101106102,101': 'Kababir,Owner_1,Kababir_2,42,428,163,701',
+ '101101106,101,101101106102,102': 'Kababir,Owner_1,Kababir_2,85,1712,157,59',
+ '101101106,101,101101106102,103': 'Kababir,Owner_1,Kababir_2,128,5992,19,42',
+ '101101106,101,101101106102,104': 'Kababir,Owner_1,Kababir_2,171,24824,4,10',
+ '101101106,102,101101106103,101': 'Kababir,Owner_2,Kababir_3,42,428,682,182',
+ '101101106,102,101101106103,102': 'Kababir,Owner_2,Kababir_3,85,1712,12,204',
+ '101101106,102,101101106103,103': 'Kababir,Owner_2,Kababir_3,128,5992,44,17',
+ '101101106,102,101101106103,104': 'Kababir,Owner_2,Kababir_3,171,24824,10,4',
+ '101101107,101,101101107102,101': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,14,142,309,555',
+ '101101107,101,101101107102,102': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,28,568,36,180',
+ '101101107,101,101101107102,103': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,42,1988,42,19',
+ '101101107,101,101101107102,104': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,56,8236,8,6',
+ '101101107,102,101101107101,101': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,14,142,617,247',
+ '101101107,102,101101107101,102': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,28,568,71,145',
+ '101101107,102,101101107101,103': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,42,1988,22,39',
+ '101101107,102,101101107101,104': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,56,8236,10,4',
+ '101101107,102,101101107103,101': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,28,285,512,352',
+ '101101107,102,101101107103,102': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,57,1140,152,64',
+ '101101107,102,101101107103,103': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,85,3990,18,43',
+ '101101107,102,101101107103,104': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,114,16530,12,2',
+ '101101108,102,101101108101,101': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,85,857,165,699',
+ '101101108,102,101101108101,102': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,171,3428,41,175',
+ '101101108,102,101101108101,103': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,257,11998,39,22',
+ '101101108,102,101101108101,104': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,342,49706,4,10',
+ '101101108,102,101101108102,101': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,71,714,64,800',
+ '101101108,102,101101108102,102': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,142,2856,56,160',
+ '101101108,102,101101108102,103': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,214,9996,17,44',
+ '101101108,102,101101108102,104': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,285,41412,5,9',
+ '101101108,102,101101108103,101': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,85,857,657,207',
+ '101101108,102,101101108103,102': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,171,3428,109,107',
+ '101101108,102,101101108103,103': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,257,11998,22,39',
+ '101101108,102,101101108103,104': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,342,49706,6,8',
+ '101101109,101,101101109102,101': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,71,714,244,620',
+ '101101109,101,101101109102,102': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,142,2856,145,71',
+ '101101109,101,101101109102,103': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,214,9996,12,49',
+ '101101109,101,101101109102,104': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,285,41412,2,12',
+ '101101109,101,101101109103,101': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,14,142,647,217',
+ '101101109,101,101101109103,102': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,28,568,61,155',
+ '101101109,101,101101109103,103': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,42,1988,37,24',
+ '101101109,101,101101109103,104': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,56,8236,4,10',
+ '101101109,102,101101109101,101': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,28,285,434,430',
+ '101101109,102,101101109101,102': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,57,1140,139,77',
+ '101101109,102,101101109101,103': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,85,3990,17,44',
+ '101101109,102,101101109101,104': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,114,16530,8,6'}
+---------------
+data['Neighb_Owner_dSign'] = 
+{'101101101,101,101101101101': 'Bat_Galim,Owner_1,Bat_Galim_1,4000',
+ '101101101,102,101101101102': 'Bat_Galim,Owner_2,Bat_Galim_2,3000',
+ '101101101,102,101101101103': 'Bat_Galim,Owner_2,Bat_Galim_3,2000',
+ '101101102,101,101101102101': 'Denia,Owner_1,Denia_1,6000',
+ '101101102,102,101101102102': 'Denia,Owner_2,Denia_2,4000',
+ '101101102,102,101101102103': 'Denia,Owner_2,Denia_3,5000',
+ '101101103,101,101101103103': 'French_Carmel,Owner_1,French_Carmel_3,1000',
+ '101101103,102,101101103101': 'French_Carmel,Owner_2,French_Carmel_1,2000',
+ '101101103,102,101101103102': 'French_Carmel,Owner_2,French_Carmel_2,4000',
+ '101101104,101,101101104101': 'German_Colony,Owner_1,German_Colony_1,3000',
+ '101101104,102,101101104102': 'German_Colony,Owner_2,German_Colony_2,3000',
+ '101101104,102,101101104103': 'German_Colony,Owner_2,German_Colony_3,1000',
+ '101101105,102,101101105101': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_1,4000',
+ '101101105,102,101101105102': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_2,3000',
+ '101101105,102,101101105103': 'Hadar_HaCarmel,Owner_2,Hadar_HaCarmel_3,5000',
+ '101101106,101,101101106101': 'Kababir,Owner_1,Kababir_1,3000',
+ '101101106,101,101101106102': 'Kababir,Owner_1,Kababir_2,3000',
+ '101101106,102,101101106103': 'Kababir,Owner_2,Kababir_3,3000',
+ '101101107,101,101101107102': 'Kiryat_Eliezer,Owner_1,Kiryat_Eliezer_2,1000',
+ '101101107,102,101101107101': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_1,1000',
+ '101101107,102,101101107103': 'Kiryat_Eliezer,Owner_2,Kiryat_Eliezer_3,2000',
+ '101101108,102,101101108101': 'Kiryat_Haim,Owner_2,Kiryat_Haim_1,6000',
+ '101101108,102,101101108102': 'Kiryat_Haim,Owner_2,Kiryat_Haim_2,5000',
+ '101101108,102,101101108103': 'Kiryat_Haim,Owner_2,Kiryat_Haim_3,6000',
+ '101101109,101,101101109102': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_2,5000',
+ '101101109,101,101101109103': 'Kiryat_Shmuel,Owner_1,Kiryat_Shmuel_3,1000',
+ '101101109,102,101101109101': 'Kiryat_Shmuel,Owner_2,Kiryat_Shmuel_1,2000'}
+---------------
+data['Neighb_Owner_Cost'] = 
+{'101101101,101': 4000,
+ '101101101,102': 5000,
+ '101101102,101': 6000,
+ '101101102,102': 9000,
+ '101101103,101': 1000,
+ '101101103,102': 6000,
+ '101101104,101': 3000,
+ '101101104,102': 4000,
+ '101101105,102': 12000,
+ '101101106,101': 6000,
+ '101101106,102': 3000,
+ '101101107,101': 1000,
+ '101101107,102': 3000,
+ '101101108,102': 17000,
+ '101101109,101': 6000,
+ '101101109,102': 2000}
+---------------
+data['Neighb_Cost'] = 
+{'101101101': 9000,
+ '101101102': 15000,
+ '101101103': 7000,
+ '101101104': 7000,
+ '101101105': 12000,
+ '101101106': 9000,
+ '101101107': 4000,
+ '101101108': 17000,
+ '101101109': 8000}
+---------------
+data['Neighb_Owner_Cost'] = 
+{'101101101,101': 4000,
+ '101101101,102': 5000,
+ '101101102,101': 6000,
+ '101101102,102': 9000,
+ '101101103,101': 1000,
+ '101101103,102': 6000,
+ '101101104,101': 3000,
+ '101101104,102': 4000,
+ '101101105,102': 12000,
+ '101101106,101': 6000,
+ '101101106,102': 3000,
+ '101101107,101': 1000,
+ '101101107,102': 3000,
+ '101101108,102': 17000,
+ '101101109,101': 6000,
+ '101101109,102': 2000}
+---------------
+data['Neighb_Cost'] = 
+{'101101101': 9000,
+ '101101102': 15000,
+ '101101103': 7000,
+ '101101104': 7000,
+ '101101105': 12000,
+ '101101106': 9000,
+ '101101107': 4000,
+ '101101108': 17000,
+ '101101109': 8000}
+---------------
+data['Neighb_Owner_Percent'] = 
+{'101101101,101': '4000,44',
+ '101101101,102': '5000,55',
+ '101101102,101': '6000,40',
+ '101101102,102': '9000,60',
+ '101101103,101': '1000,14',
+ '101101103,102': '6000,85',
+ '101101104,101': '3000,42',
+ '101101104,102': '4000,57',
+ '101101105,102': '12000,100',
+ '101101106,101': '6000,66',
+ '101101106,102': '3000,33',
+ '101101107,101': '1000,25',
+ '101101107,102': '3000,75',
+ '101101108,102': '17000,100',
+ '101101109,101': '6000,75',
+ '101101109,102': '2000,25'}
+---------------
+data['Neighb_Owner_dSign_Percent'] = 
+{}
+         ---------------
+Start    : 15:07:14.37
+Finish   : 15:07:14.87
+         ---------------
+Duration : 00:00:00,50 

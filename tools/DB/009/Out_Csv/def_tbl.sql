@@ -1,0 +1,17 @@
+CREATE TABLE Digital_Signage(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, Dig_Sign TEXT, DS_Cost TEXT, DS_Perc_Quality TEXT);
+CREATE TABLE Dig_Sign_Owner(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, ID_Owner TEXT, Owner_Name TEXT);
+CREATE TABLE User_Neighb(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User TEXT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, Neighborhood TEXT, Nic_User TEXT);
+CREATE TABLE User_Neighb_Ds(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User TEXT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, ID_Owner TEXT, Neighborhood TEXT, Nic_User TEXT, Dig_Sign TEXT, DS_Cost TEXT, DS_Perc_Quality TEXT, Owner_Name TEXT);
+CREATE TABLE User_Neighb_Ds_Md(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User TEXT, ID_User_Media TEXT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, ID_Owner TEXT, Neighborhood TEXT, Nic_User TEXT, Dig_Sign TEXT, Owner_Name TEXT, DS_Cost TEXT, DS_Perc_Quality TEXT, Media_Name TEXT, Media_Cost TEXT, Media_Slots TEXT, Media_Total_Slots TEXT);
+CREATE TABLE Neighb_Ds_Ti(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, ID_Owner TEXT, ID_Time_Interval TEXT, Neighborhood TEXT, Dig_Sign TEXT, Owner_Name TEXT, DS_Cost TEXT, DS_Perc_Quality TEXT, TI_Price TEXT, DS_TI_Price TEXT, TI_D_Sign_People TEXT, TI_Slots TEXT, TI_Slots_Busy TEXT, TI_Slots_Free TEXT, TI_List_Prices TEXT);
+CREATE TABLE User_Neighb_Ds_Md_Ti(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User TEXT, ID_User_Media TEXT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, ID_Digital_Signage TEXT, ID_Owner TEXT, Neighborhood TEXT, Nic_User TEXT, Dig_Sign TEXT, Owner_Name TEXT, Media_Name TEXT, Media_Cost TEXT, Media_Slots TEXT, Media_Total_Slots TEXT, DS_Cost TEXT, DS_Perc_Quality TEXT, UM_DS_COST TEXT, DS_Cost_Perc TEXT, DS_Media_Cost TEXT, DS_Media_Total_Slots TEXT);
+CREATE TABLE User_Media(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User_Media TEXT, ID_User TEXT, Media_Name TEXT, Media_Cost TEXT, Media_Slots TEXT);
+CREATE TABLE base_parms(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Parm TEXT, Parm TEXT, Val TEXT);
+CREATE TABLE country(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, Country TEXT);
+CREATE TABLE city(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, ID_City TEXT, City TEXT);
+CREATE TABLE neighborhoods(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Country TEXT, ID_City TEXT, ID_Neighborhoods TEXT, Neighborhoods TEXT);
+CREATE TABLE user(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_User TEXT, Nic_User TEXT);
+CREATE TABLE media(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Media TEXT, Type_Media TEXT, Slots TEXT);
+CREATE TABLE owner(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Owner TEXT, Owner_Name TEXT);
+CREATE TABLE time_interval(ID INTEGER PRIMARY KEY AUTOINCREMENT, ID_Time_Interval TEXT, Price TEXT, D_Sign_People TEXT, Slots TEXT);
+CREATE TABLE dictionary(ID INTEGER PRIMARY KEY AUTOINCREMENT, Dict_Table TEXT, Dict_Key TEXT);

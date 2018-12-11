@@ -1,0 +1,1139 @@
+         ---------------
+Start    : 15:34:47.52 x_call_CSD_gen_DB.bat
+         ---------------
+"CURRENT_BASELINE    CSD_0.3_009"
+"RELEASE_BRANCH_N    0.3"
+"CURRENT_BASELINE_N  009"
+"CURRENT_BASELINE_NO 0.3_009"
+"RELEASE_BRANCH      cds_0.3"
+"CLONE_PATH=C:\Git\ws01"
+"WORK_PATH=C:\Git\ws01\work"
+"Output_Log=C:\Git\ws01\work\cds_0.3\logs\CSD_0.3_009"
+"Output_Log_Txt=C:\Git\ws01\work\cds_0.3\logs\CSD_0.3_009\run_CSD_xls2csv_CSD_0.3_009.txt"
+"Tbl_N=09"
+"CONF_GEN_DB=C:\Git\ws01\cds\tools\gen_db\gen_db_0.json
+ "c:\Python27\python.exe C:\Git\ws01\cds\tools\gen_db\cdb_gen_db.py C:\Git\ws01\cds\tools\gen_db\gen_db_0.json >C:\Git\ws01\work\cds_0.3\logs\CSD_0.3_009\cdb_gen_db.txt"
+ "c:\Python27\python.exe C:\Git\ws01\cds\tools\gen_db\cdb_plan.py C:\Git\ws01\cds\tools\gen_db\gen_db_0.json >C:\Git\ws01\work\cds_0.3\logs\CSD_0.3_009\cdb_gen_db.txt"
+CONF_GEN_DB         :  c:\Git\ws01\cds\tools\gen_db\gen_db_0.json
+Input_DB = c:\Git\ws01\cds\DB\009\db_0.3_009.db
+1 1,1001 => 1001,Alex_Clip_1,15000,1
+1 1,1001,1,1,2,4,5 => 1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  4
+Dig_Sign =  Denia_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  34
+DS_TI_Price =  18
+TI_D_Sign_People =  18
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  4
+Dig_Sign =  Denia_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  20
+DS_TI_Price =  54
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  4
+Dig_Sign =  Denia_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  180
+TI_D_Sign_People =  54
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  4
+Dig_Sign =  Denia_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  1
+DS_TI_Price =  450
+TI_D_Sign_People =  72
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  5
+Dig_Sign =  Denia_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  12
+DS_TI_Price =  14
+TI_D_Sign_People =  14
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  5
+Dig_Sign =  Denia_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  42
+TI_D_Sign_People =  28
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  5
+Dig_Sign =  Denia_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  9
+DS_TI_Price =  140
+TI_D_Sign_People =  42
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  5
+Dig_Sign =  Denia_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  350
+TI_D_Sign_People =  56
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  6
+Dig_Sign =  Denia_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  5
+DS_TI_Price =  18
+TI_D_Sign_People =  18
+30 10 0.901 +++ 10,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+31 9 0.907 +++ 9,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+32 8 0.912 +++ 8,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+33 7 0.916 +++ 7,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+34 6 0.92 +++ 6,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+35 5 0.923 +++ 5,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  6
+Dig_Sign =  Denia_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  54
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  6
+Dig_Sign =  Denia_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  180
+TI_D_Sign_People =  54
+---------------------------------------------
+Neighborhood =  Denia
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,2,4,5,Denia,Alex,Denia_1,Owner_5,Alex_Clip_1,15000,1,151,8000,180,43000,18,2700,27
+ID_Digital_Signage =  6
+Dig_Sign =  Denia_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  450
+TI_D_Sign_People =  72
+2 1,1001,1,1,3,7,2 => 1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  20
+DS_TI_Price =  12
+TI_D_Sign_People =  12
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  36
+TI_D_Sign_People =  24
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  120
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  2
+DS_TI_Price =  300
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  34
+DS_TI_Price =  19
+TI_D_Sign_People =  19
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  19
+DS_TI_Price =  57
+TI_D_Sign_People =  38
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  190
+TI_D_Sign_People =  57
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  475
+TI_D_Sign_People =  76
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  23
+DS_TI_Price =  17
+TI_D_Sign_People =  17
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  51
+TI_D_Sign_People =  34
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  2
+DS_TI_Price =  170
+TI_D_Sign_People =  51
+15 5 0.905 +++ 5,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+16 4 0.923 +++ 4,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+17 3 0.936 +++ 3,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+18 2 0.946 +++ 2,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,7,2,French_Carmel,Alex,French_Carmel_1,Owner_2,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  425
+TI_D_Sign_People =  68
+3 1,1001,1,1,3,8,5 => 1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  20
+DS_TI_Price =  12
+TI_D_Sign_People =  12
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  36
+TI_D_Sign_People =  24
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  120
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  7
+Dig_Sign =  French_Carmel_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  2
+DS_TI_Price =  300
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  34
+DS_TI_Price =  19
+TI_D_Sign_People =  19
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  19
+DS_TI_Price =  57
+TI_D_Sign_People =  38
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  190
+TI_D_Sign_People =  57
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  8
+Dig_Sign =  French_Carmel_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  475
+TI_D_Sign_People =  76
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  23
+DS_TI_Price =  17
+TI_D_Sign_People =  17
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  51
+TI_D_Sign_People =  34
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  2
+DS_TI_Price =  170
+TI_D_Sign_People =  51
+15 5 0.905 +++ 5,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+16 4 0.923 +++ 4,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+17 3 0.936 +++ 3,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+18 2 0.946 +++ 2,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+---------------------------------------------
+Neighborhood =  French_Carmel
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,3,8,5,French_Carmel,Alex,French_Carmel_2,Owner_5,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  9
+Dig_Sign =  French_Carmel_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  425
+TI_D_Sign_People =  68
+4 1,1001,1,1,4,10,2 => 1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  29
+DS_TI_Price =  19
+TI_D_Sign_People =  19
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  57
+TI_D_Sign_People =  38
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  2
+DS_TI_Price =  190
+TI_D_Sign_People =  57
+15 5 0.914 +++ 5,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+16 4 0.931 +++ 4,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+17 3 0.943 +++ 3,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+18 2 0.951 +++ 2,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  475
+TI_D_Sign_People =  76
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  16
+DS_TI_Price =  16
+TI_D_Sign_People =  16
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  16
+DS_TI_Price =  48
+TI_D_Sign_People =  32
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  3
+DS_TI_Price =  160
+TI_D_Sign_People =  48
+15 5 0.9 +++ 5,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+16 4 0.919 +++ 4,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+17 3 0.933 +++ 3,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  5
+DS_TI_Price =  400
+TI_D_Sign_People =  64
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  22
+DS_TI_Price =  16
+TI_D_Sign_People =  16
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  48
+TI_D_Sign_People =  32
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  6
+DS_TI_Price =  160
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,10,2,German_Colony,Alex,German_Colony_1,Owner_2,Alex_Clip_1,15000,1,151,9000,190,43000,20,3000,30
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  4
+DS_TI_Price =  400
+TI_D_Sign_People =  64
+5 1,1001,1,1,4,12,2 => 1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  29
+DS_TI_Price =  19
+TI_D_Sign_People =  19
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  57
+TI_D_Sign_People =  38
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  2
+DS_TI_Price =  190
+TI_D_Sign_People =  57
+15 5 0.914 +++ 5,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+16 4 0.931 +++ 4,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+17 3 0.943 +++ 3,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+18 2 0.951 +++ 2,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  10
+Dig_Sign =  German_Colony_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  475
+TI_D_Sign_People =  76
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  16
+DS_TI_Price =  16
+TI_D_Sign_People =  16
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  16
+DS_TI_Price =  48
+TI_D_Sign_People =  32
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  3
+DS_TI_Price =  160
+TI_D_Sign_People =  48
+15 5 0.9 +++ 5,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+16 4 0.919 +++ 4,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+17 3 0.933 +++ 3,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  11
+Dig_Sign =  German_Colony_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  5
+DS_TI_Price =  400
+TI_D_Sign_People =  64
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  22
+DS_TI_Price =  16
+TI_D_Sign_People =  16
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  25
+DS_TI_Price =  48
+TI_D_Sign_People =  32
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  6
+DS_TI_Price =  160
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  German_Colony
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,4,12,2,German_Colony,Alex,German_Colony_3,Owner_2,Alex_Clip_1,15000,1,151,6000,160,43000,13,1950,19
+ID_Digital_Signage =  12
+Dig_Sign =  German_Colony_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  4
+DS_TI_Price =  400
+TI_D_Sign_People =  64
+6 1,1001,1,1,6,17,3 => 1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  12
+DS_TI_Price =  18
+TI_D_Sign_People =  18
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  7
+DS_TI_Price =  54
+TI_D_Sign_People =  36
+20 10 0.912 +++ 10,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+21 9 0.923 +++ 9,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+22 8 0.932 +++ 8,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+23 7 0.939 +++ 7,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  180
+TI_D_Sign_People =  54
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  450
+TI_D_Sign_People =  72
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  11
+DS_TI_Price =  12
+TI_D_Sign_People =  12
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  24
+DS_TI_Price =  36
+TI_D_Sign_People =  24
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  11
+DS_TI_Price =  120
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  2
+DS_TI_Price =  300
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  34
+DS_TI_Price =  17
+TI_D_Sign_People =  17
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  9
+DS_TI_Price =  51
+TI_D_Sign_People =  34
+20 10 0.907 +++ 10,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,17,3
+21 9 0.919 +++ 9,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,17,3
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  12
+DS_TI_Price =  170
+TI_D_Sign_People =  51
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,17,3,Kababir,Alex,Kababir_2,Owner_3,Alex_Clip_1,15000,1,151,2000,120,43000,4,600,6
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  1
+DS_TI_Price =  425
+TI_D_Sign_People =  68
+7 1,1001,1,1,6,18,1 => 1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  12
+DS_TI_Price =  18
+TI_D_Sign_People =  18
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  7
+DS_TI_Price =  54
+TI_D_Sign_People =  36
+20 10 0.912 +++ 10,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+21 9 0.923 +++ 9,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+22 8 0.932 +++ 8,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+23 7 0.939 +++ 7,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  17
+DS_TI_Price =  180
+TI_D_Sign_People =  54
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  16
+Dig_Sign =  Kababir_1
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  8
+DS_TI_Price =  450
+TI_D_Sign_People =  72
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  11
+DS_TI_Price =  12
+TI_D_Sign_People =  12
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  24
+DS_TI_Price =  36
+TI_D_Sign_People =  24
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  11
+DS_TI_Price =  120
+TI_D_Sign_People =  36
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  17
+Dig_Sign =  Kababir_2
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  2
+DS_TI_Price =  300
+TI_D_Sign_People =  48
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  1
+TI_Slots =  40
+TI_Slots_Busy =  34
+DS_TI_Price =  17
+TI_D_Sign_People =  17
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  2
+TI_Slots =  30
+TI_Slots_Busy =  9
+DS_TI_Price =  51
+TI_D_Sign_People =  34
+20 10 0.907 +++ 10,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,18,1
+21 9 0.919 +++ 9,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,18,1
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  3
+TI_Slots =  20
+TI_Slots_Busy =  12
+DS_TI_Price =  170
+TI_D_Sign_People =  51
+---------------------------------------------
+Neighborhood =  Kababir
+umi_key =  1,1001
+umi_val =  1001,Alex_Clip_1,15000,1
+ti_val =  1,1001,1,1,6,18,1,Kababir,Alex,Kababir_3,Owner_1,Alex_Clip_1,15000,1,151,7000,170,43000,16,2400,24
+ID_Digital_Signage =  18
+Dig_Sign =  Kababir_3
+ID_Time_Interval =  4
+TI_Slots =  10
+TI_Slots_Busy =  1
+DS_TI_Price =  425
+TI_D_Sign_People =  68
+=============================================
+0.951 =>
+    2,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+    2,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+0.946 =>
+    2,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+    2,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+0.943 =>
+    3,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+    3,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+0.939 =>
+    7,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+    7,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+0.936 =>
+    3,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+    3,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+0.933 =>
+    3,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+    3,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+0.932 =>
+    8,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+    8,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+0.931 =>
+    4,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+    4,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+0.923 =>
+    5,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+    4,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+    4,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+    9,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+    9,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+0.92 =>
+    6,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+0.919 =>
+    4,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+    4,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+    9,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,17,3
+    9,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,18,1
+0.916 =>
+    7,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+0.914 =>
+    5,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,10,2
+    5,3,190,57,German_Colony_1,Owner_2,1,1001,1,1,4,12,2
+0.912 =>
+    8,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+    10,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,17,3
+    10,2,54,36,Kababir_1,Owner_2,1,1001,1,1,6,18,1
+0.907 =>
+    9,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+    10,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,17,3
+    10,2,51,34,Kababir_3,Owner_1,1,1001,1,1,6,18,1
+0.905 =>
+    5,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,7,2
+    5,3,170,51,French_Carmel_3,Owner_1,1,1001,1,1,3,8,5
+0.901 =>
+    10,1,18,18,Denia_3,Owner_5,1,1001,1,1,2,4,5
+0.9 =>
+    5,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,10,2
+    5,3,160,48,German_Colony_2,Owner_2,1,1001,1,1,4,12,2
+len(tik_keys)= 18
+         ---------------
+Start    : 15:34:47.52
+Finish   : 15:34:47.73
+         ---------------
+Duration : 00:00:00,21 
